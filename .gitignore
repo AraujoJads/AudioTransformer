@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Installer logs
+dist/
+build/
+*.spec
+*.egg-info/
+
+# Local environment
+.venv/
+venv/
+ENV/
+env/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# PyInstaller bundle
+*.log
+
+# Virtual environments
+pip-log.txt
+
+# Audio artifacts
+*.wav
+*.mp3
+*.flac
+
+# IDE configs
+.vscode/
+.idea/
