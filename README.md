@@ -1,8 +1,10 @@
-# 🎵 Conversor de Áudio Premium
+# 🎵 Conversor de Áudio
 
 <p align="center">
   <img src="assets/icon.png" alt="Ícone" width="128">
 </p>
+
+# 🚨ÍCONE GERADO POR IA
 
 ## 📑 Sumário
 
