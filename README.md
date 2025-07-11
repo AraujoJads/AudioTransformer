@@ -64,7 +64,7 @@ Interface gráfica moderna e intuitiva para conversão e compressão de arquivos
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/ConversorDeAudio.git
+git clone https://github.com/AraujoJads/ConversorDeAudio.git
 cd ConversorDeAudio
 ```
 
