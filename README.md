@@ -27,7 +27,7 @@ Interface gráfica moderna e intuitiva para conversão e compressão de arquivos
 - ✅ Aplicativo para **Windows (`.exe`)**
 
 🔗 Acesse os executáveis prontos na aba **Releases** deste repositório:
-[👉 Clique aqui para acessar as releases](https://github.com/seu-usuario/ConversorDeAudio/releases)
+[👉 Clique aqui para acessar as releases](https://github.com/AraujoJads/AudioTransformer/releases/tag/v1.0.0)
 
 ---
 
